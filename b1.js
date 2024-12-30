@@ -33,7 +33,14 @@ document.writeln( 150 - multi );
 let age = 20;
 console.log(age > 18 && age < 30);
 
+let number1 = 2
+let number2 = 3
+console.log(2**3);
 
+
+let numb1 = 10
+let numb2 = 4
+console.log(10%4);
 
 
 console.log(typeof 100);
